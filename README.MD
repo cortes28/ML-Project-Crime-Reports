@@ -3,7 +3,9 @@
 #### Contributors: Bryan Cortes, Alexander Golubow, Genna Quach
 #### Professor: Kanika Sood
 
+A collaborative project of 3 in developing multiple machine learning models to determine the severity of a crime committed as either violent or non-violent with Python in Jupyter Notebook. I analyzed the raw data to see what has applicable purposes for our case. As well as the data pre-processing, cleansing, & splitting of raw data of over 680,000 data entries. I contributed to creating multiple predictor models that ranged in accuracy of 60-79%. In addition to the writing of our implementation, and findings. 
 
+========================================================================================
  Machine learning allows for a system to learn and improve
 as time goes by when trained with an increasing amount of
 patterns and data. This would be a useful tool in creating a
